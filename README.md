@@ -2,6 +2,7 @@
 
 A library to use html in discord.js
 ## Usage
+npm i html-discord
 You need to create an html file (html,ejs,htm)
 and specific the path
 ## Examples
