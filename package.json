@@ -1,0 +1,15 @@
+{
+  "name": "html-discord",
+  "version": "1.1.0",
+  "description": "Html lib for discord.js",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acnologla",
+  "dependencies": {
+    "discord.js":"11.4.2",
+    "cheerio":"1.0.0-rc.2"
+  },
+  "license": "ISC"
+}
