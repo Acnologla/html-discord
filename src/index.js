@@ -1,3 +1,6 @@
+/*
+Warning, shitpost code.
+*/
 var cheerio = require('cheerio')
 var discord = require('discord.js')
 var fs = require("fs")
